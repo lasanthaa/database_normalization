@@ -36,13 +36,13 @@ Column (attribute) of a table cannot hold multiple values. ( should be atomic )
 ##### example 
 
 |Customer table |
-|---------------| 
+|:---------------:| 
 
 
 | customer_id        | firstname           | surname  | tp
-| ------------- |:-------------:| :-----:| :-------:     
+| :-------------: |:-------------:| :-----:| :-------:     
 | 123     | Pooja |  Singh | 555-861-2025, 192-122-1111              
-| 234      | San      |   Zhang | (555) 403-1659 Ext. 53; 182-929-2929
+| 234      | San      |   Zhang | (555) 403-1659 Ext. 53, 182-929-2929
 | 456 |  John      |   Doe |  555-808-963
 
 Note that tp column contain more than one number for one customer.
