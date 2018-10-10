@@ -84,7 +84,7 @@ An altrnate design is make two tables
 | 456 |  John      |   Doe |
 
 | customer tp number table |
-:-
+| :---:|
 
 
 | id        | customer_id           | tp
